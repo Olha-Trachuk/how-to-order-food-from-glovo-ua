@@ -1,0 +1,95 @@
+body {
+  font-family: Times New Roman, sans-serif;
+  font-size: 18px;
+}
+ul {
+  padding-left: 40px;
+}
+ul li {
+  padding-left: 1px;
+  list-style-type: disc;
+}
+h1 {
+  color: rgb(210, 105, 30);
+  font-size: 24px;
+}
+.subheading-info {
+  padding-left: 30px;
+  padding-bottom: 20px;
+  padding-top: 5px;
+  padding-right: 30px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  color: rgba(0, 110, 255, 0.836);
+  background-color: #e2ecf0;
+}
+.subheading-note {
+  padding-left: 30px;
+  padding-bottom: 20px;
+  padding-top: 5px;
+  padding-right: 30px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  color: rgb(210, 105, 30);
+  background-color: #f5b93791;
+}
+.subheading-note-a {
+  padding-left: 30px;
+  padding-bottom: 20px;
+  padding-top: 5px;
+  padding-right: 30px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  font-weight: bold;
+  color: rgb(210, 105, 30);
+  background-color: #f6c55cc2;
+}
+.subheading-tip {
+  padding-left: 30px;
+  padding-bottom: 20px;
+  padding-top: 5px;
+  padding-right: 30px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  color: rgb(20, 128, 38);
+  background-color: rgba(51, 240, 82, 0.137);
+}
+.note-list-item {
+  color: rgb(210, 105, 30);
+  font-weight: normal;
+  list-style-type: circle;
+}
+.tip-list-item {
+  color: rgb(20, 128, 38);
+  font-weight: normal;
+  list-style-type: circle;
+}
+.info-list-item {
+  color: rgba(0, 110, 255, 0.836);
+  font-weight: normal;
+  list-style-type: circle;
+}
+.note-list-text,
+.tip-list-text,
+.info-list-text {
+  color: black;
+}
+img {
+  width: 100%;
+}
+a:link {
+  color: rgb(210, 105, 30);
+  text-decoration: underline;
+}
+a:active {
+  color: #e98f19af;
+  text-decoration: underline;
+}
+a:visited {
+  color: #69361f;
+  text-decoration: underline;
+}
+a:hover {
+  color: #479d82;
+  text-decoration: underline;
+}
